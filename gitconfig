@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = jjmarsh123@gmail.com
+	name = James Marsh
