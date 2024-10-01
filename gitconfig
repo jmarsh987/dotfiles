@@ -60,5 +60,5 @@
 [init]
   defaultBranch = master
 [user]
-	email = 
-	name = James Marsh jjmarsh123@gmail.com
+	email = jjmarsh123@gmail.com
+	name = James Marsh
